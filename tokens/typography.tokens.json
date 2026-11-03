@@ -1,0 +1,16 @@
+{
+  "font": {
+    "family": {
+      "base": { "$type": "fontFamily", "$value": ["Inter", "system-ui", "sans-serif"] }
+    },
+    "size": {
+      "$type": "dimension",
+      "base": { "$value": { "value": 16, "unit": "px" } },
+      "heading": { "$value": { "value": 2, "unit": "rem" } }
+    },
+    "weight": {
+      "$type": "fontWeight",
+      "heading": { "$value": 600 }
+    }
+  }
+}

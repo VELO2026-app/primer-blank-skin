@@ -1,0 +1,15 @@
+{
+  "color": {
+    "$type": "color",
+    "brand": {
+      "primary": {
+        "$value": "#1A73E8",
+        "$description": "The heading, links and the accent of the page."
+      },
+      "on-primary": { "$value": "#FFFFFF" }
+    },
+    "surface": { "$value": "#FFFFFF" },
+    "text": { "$value": "#202124" },
+    "link": { "$value": "{color.brand.primary}" }
+  }
+}
