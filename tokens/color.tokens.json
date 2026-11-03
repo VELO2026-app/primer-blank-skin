@@ -3,7 +3,7 @@
     "$type": "color",
     "brand": {
       "primary": {
-        "$value": "#1A73E8",
+        "$value": "#0B8043",
         "$description": "The heading, links and the accent of the page."
       },
       "on-primary": { "$value": "#FFFFFF" }
